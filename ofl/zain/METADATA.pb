@@ -57,11 +57,12 @@ fonts {
   full_name: "Zain Black"
   copyright: "Copyright 2024 The Zain Project Authors (https://github.com/googlefonts/zain)"
 }
+subsets: "arabic"
 subsets: "latin"
 subsets: "menu"
 source {
   repository_url: "https://github.com/googlefonts/zain"
-  commit: "2705f2f2a117974c5d82f45c4f2eca5e20f3bf15"
+  commit: "4c9896b8037ce409e24312eed1bd6a335e47c98a"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
